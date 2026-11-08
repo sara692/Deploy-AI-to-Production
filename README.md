@@ -157,3 +157,25 @@ aws cloudtrail lookup-events --region <region> \
 ## Course
 
 [Deploy AI to AWS, GCP, Azure, Vercel with MLOps, Bedrock, SageMaker, RAG, Agents, MCP: scalable, secure and observable](https://www.udemy.com/course/generative-and-agentic-ai-in-production). The course material belongs to its instructor. This repository contains my own implementation and notes.
+
+## 📄 License
+
+This portfolio is released under the MIT License — feel free to use it for learning or as a portfolio reference.
+
+## 👨‍💻 Author
+
+**Sara Ibrahim**  
+*Data Scientist | Machine Learning / AI Engineer*
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/sara-ibrahim-omran)  
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-red?style=flat&logo=gmail)](mailto:Saraomran433@gmail.com)
+
+### 🌟 Let's Connect!
+
+I'm passionate about solving real-world problems with data, machine learning, and AI. Feel free to reach out for:
+
+- 💼 Job opportunities and collaborations
+- 📚 Technical discussions and knowledge sharing
+- 🚀 Project ideas and innovative solutions
+
+**⭐ If you find this project helpful, please give the repo a star!**
