@@ -209,6 +209,26 @@ permissions:
 - GitHub Actions authenticates with short-lived OIDC credentials, so no long-lived AWS keys are stored in GitHub.
 - The memory bucket may contain conversation history. Keep it private.
 
-## Auther
+## 📚 Course
 
-Deploy AI to AWS, GCP, Azure, Vercel with MLOps, Bedrock, SageMaker, RAG, Agents, MCP: scalable, secure and observable cource at udemy : https://www.udemy.com/course/generative-and-agentic-ai-in-production
+This project was built while following the Udemy course
+[Generative and Agentic AI in Production](https://www.udemy.com/course/generative-and-agentic-ai-in-production):
+deploying AI to AWS, GCP, Azure and Vercel with MLOps, Bedrock, SageMaker, RAG, agents and MCP.
+
+## 👨‍💻 Author
+
+**Sara Ibrahim**
+*Data Scientist | Machine Learning / AI Engineer*
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/sara-ibrahim-omran)
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-red?style=flat&logo=gmail)](mailto:Saraomran433@gmail.com)
+
+### 🌟 Let's Connect!
+
+I'm passionate about solving real-world problems with data, machine learning, and AI. Feel free to reach out for:
+
+- 💼 Job opportunities and collaborations
+- 📚 Technical discussions and knowledge sharing
+- 🚀 Project ideas and innovative solutions
+
+**⭐ If you find this project helpful, please give the repo a star!**
