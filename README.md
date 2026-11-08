@@ -154,10 +154,6 @@ aws cloudtrail lookup-events --region <region> \
 - Destroy environments you are not using. The Terraform state bucket and lock table cost only a few cents per month.
 - Keep any bucket that stores conversation history private.
 
-## Course
-
-[Deploy AI to AWS, GCP, Azure, Vercel with MLOps, Bedrock, SageMaker, RAG, Agents, MCP: scalable, secure and observable](https://www.udemy.com/course/generative-and-agentic-ai-in-production). The course material belongs to its instructor. This repository contains my own implementation and notes.
-
 ## 📄 License
 
 This portfolio is released under the MIT License — feel free to use it for learning or as a portfolio reference.
