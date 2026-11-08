@@ -209,6 +209,10 @@ permissions:
 - GitHub Actions authenticates with short-lived OIDC credentials, so no long-lived AWS keys are stored in GitHub.
 - The memory bucket may contain conversation history. Keep it private.
 
+## 📄 License
+
+This project is released under the MIT License — feel free to use it for learning or as a portfolio reference.
+
 ## 📚 Course
 
 This project was built while following the Udemy course
